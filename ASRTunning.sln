@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TunningCore", "TunningCore\TunningCore.csproj", "{F7B4E094-110A-4705-9BDD-D7A6784CE1D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TunningUtils", "TunningUtils\TunningUtils.csproj", "{35665BD0-763E-4F89-9ED4-C70879846512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{331EFE61-7794-47D3-9BAC-94B784CEB92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B4E094-110A-4705-9BDD-D7A6784CE1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B4E094-110A-4705-9BDD-D7A6784CE1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B4E094-110A-4705-9BDD-D7A6784CE1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B4E094-110A-4705-9BDD-D7A6784CE1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35665BD0-763E-4F89-9ED4-C70879846512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35665BD0-763E-4F89-9ED4-C70879846512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35665BD0-763E-4F89-9ED4-C70879846512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35665BD0-763E-4F89-9ED4-C70879846512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331EFE61-7794-47D3-9BAC-94B784CEB92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331EFE61-7794-47D3-9BAC-94B784CEB92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331EFE61-7794-47D3-9BAC-94B784CEB92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331EFE61-7794-47D3-9BAC-94B784CEB92A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
